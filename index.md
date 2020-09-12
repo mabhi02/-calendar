@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zxx">
 
 <head>
@@ -22,13 +21,11 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-    </head>
 
     <body>
     <!-- Page Preloder -->
     <div id="preloder">
         <div class="loader"></div>
-    </div>
 
     <!-- Header Section Begin -->
     <header class="header">
