@@ -35,17 +35,19 @@
                 <div class="row">
                     <div class="col-lg-2">
                         <div class="header__logo">
-                            <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                            <a href="./index.html"><img src="img/logo1.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-10">
                         <div class="header__nav__option">
                             <nav class="header__nav__menu mobile-menu">
                                 <ul>
-                                    <li><a href="./index.html">Home</a></li>
-                                    <li class="active"><a href="./about.html">About</a></li>
-                                    <li><a href="./portfolio.html">Portfolio</a></li>
-                                    <li><a href="./services.html">Services</a></li>
+                                    <li><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
+                                    <li class="active"><a href="./about.html">Calendar</a></li>
+                                    <li><a href="./portfolio.html">Resources</a></li>
+                                    <li><a href="./services.html">About</a></li>
+                                    <li><a href="./services.html">Our Team</a></li>
+
 
                 <div id="mobile-menu-wrap"></div>
             </div>
