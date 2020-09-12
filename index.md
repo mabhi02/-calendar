@@ -22,9 +22,9 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-</head>
+    </head>
 
-<body>
+    <body>
     <!-- Page Preloder -->
     <div id="preloder">
         <div class="loader"></div>
