@@ -44,9 +44,8 @@
                                     <ul>
                                         <li><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
                                         <li><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
-                                        <li><a href="./portfolio.html">Resources</a></li>
+                                        <li><a href="https://ahs-speech-debate.github.io/-resources/">Resources</a></li>
                                         <li><a href="https://ahs-speech-debate.github.io/-about/">About</a></li>
-                                        <li><a href="./services.html">Our Team</a></li>
                                             </ul>
                                 </nav>
                             </div>
